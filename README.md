@@ -4,13 +4,13 @@ This project analyzes Airbnb listings in New York City to understand pricing pat
 
 ![Dashboard](dashboard.png)
 
-## 🎯 Project Objective
+## Project Objective
 The goal of this analysis is to:
 - Understand how prices are distributed across different room types
 - Examine the relationship between price and demand (number of reviews)
 - Identify spatial patterns of listings across NYC boroughs
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 The interactive dashboard includes:
 - Price distribution analysis
 - Price comparison by room type
@@ -18,18 +18,18 @@ The interactive dashboard includes:
 - Availability vs price
 - Geographic distribution of listings (map)
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Tableau Public
 - CSV dataset (Airbnb NYC Open Dataset)
 - Exploratory Data Analysis (EDA)
 
-## 📂 Dataset
+## Dataset
 - Source: Airbnb NYC Open Dataset (2019)  
 - Link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
-## 🔗 Tableau Public Dashboard
+## Tableau Public Dashboard
 https://public.tableau.com/views/NYCAirbnbPricingDemandAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## 📌 Key Insight
+## Key Insight
 Lower-priced listings tend to receive more reviews, while higher-priced listings are more concentrated in central areas such as Manhattan.
 
