@@ -2,6 +2,7 @@
 
 This project analyzes Airbnb listings in New York City to understand pricing patterns, demand indicators, and geographic distribution using Tableau.
 
+
 ![Dashboard](dashboard.png)
 
 ## Project Objective
