@@ -28,7 +28,7 @@ The interactive dashboard includes:
 - Link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 ## 🔗 Tableau Public Dashboard
-(Add your Tableau Public link here)
+https://public.tableau.com/views/NYCAirbnbPricingDemandAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📌 Key Insight
 Lower-priced listings tend to receive more reviews, while higher-priced listings are more concentrated in central areas such as Manhattan.
